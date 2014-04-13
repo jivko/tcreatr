@@ -2,7 +2,7 @@
 lock '3.1.0'
 
 set :application, 'tcreatr'
-set :repo_url, 'git@git.jommy.org:tcreatr.git'
+set :repo_url, 'git@github.com:jivko/tcreatr.git'
 set :branch, "master"
 
 # Default branch is :master
